@@ -181,7 +181,7 @@ Client
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-🔮 Future Enhancements:
+🔮 Future Enhancements :
 
 🔐 Authentication system
 🔒 SSL/TLS encryption
